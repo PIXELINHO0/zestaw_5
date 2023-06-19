@@ -13,6 +13,8 @@ Jak używać
 - <typ_figury> <dane_figury>
 - <typ_figury> <dane_figury>
 ...
+
+
 Opis konfiguracji
 
 - <szerokość_płótna> i <wysokość_płótna> określają wymiary płótna w znakach.
